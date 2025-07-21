@@ -90,16 +90,6 @@ CuratorAI/
    ```
    The app will be available at [http://localhost:5173](http://localhost:5173) (or the port shown in your terminal).
 
----
-
-## 🌐 Deployment (Vercel Recommended)
-1. **Push your code to GitHub.**
-2. **Go to [Vercel](https://vercel.com/)** and import your repo.
-3. **Add the same environment variables** in the Vercel dashboard.
-4. **Deploy!**
-
----
-
 ## 🔑 Environment Variables
 - `VITE_SUPABASE_URL` — Your Supabase project URL
 - `VITE_SUPABASE_ANON_KEY` — Your Supabase public anon key
